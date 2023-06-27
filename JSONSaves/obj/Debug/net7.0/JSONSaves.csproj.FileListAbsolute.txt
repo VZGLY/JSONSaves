@@ -1,0 +1,15 @@
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\bin\Debug\net7.0\JSONSaves.exe
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\bin\Debug\net7.0\JSONSaves.deps.json
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\bin\Debug\net7.0\JSONSaves.runtimeconfig.json
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\bin\Debug\net7.0\JSONSaves.dll
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\bin\Debug\net7.0\JSONSaves.pdb
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.csproj.AssemblyReference.cache
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.AssemblyInfoInputs.cache
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.AssemblyInfo.cs
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.csproj.CoreCompileInputs.cache
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.dll
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\refint\JSONSaves.dll
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.pdb
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\JSONSaves.genruntimeconfig.cache
+C:\Users\BStormGavin\RiderProjects\JSONSaves\JSONSaves\obj\Debug\net7.0\ref\JSONSaves.dll
